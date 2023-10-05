@@ -29,7 +29,7 @@ Visiteth Uncle Pecker's Second Life emporium in the virtual realm or upon the di
 {{< /brick_image2 >}}
 {{< brick_image >}}
 
-## Peckerwood's Blog
+## The Cyberstar Chronicles
 
 [![Siltwood](https://cdn.midjourney.com/2528f96d-bdab-404a-965f-2b0f9905ccae/0_3.png)](/posts)
 
