@@ -5,6 +5,8 @@ sticky_header: true
 menuitems:
   - title: The Cyberstar Chronicles
     link: /blog/
+  - title: Galleria
+    link: /gallery/  
   - title: Digital Gateways
     link: /links/
   
