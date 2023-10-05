@@ -5,6 +5,10 @@ sticky_header: true
 menuitems:
   - title: The Cyberstar Chronicles
     link: /blog/
+  - title: Digital Gateways
+    link: /links/
+  
+    link: /links/
 cta:
   active: false
   title: Get started
