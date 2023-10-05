@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on </title>
+    <link>https://kanecyberstar.github.io/peckerwoods/blog/</link>
+    <description>Recent content in Blog on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kanecyberstar.github.io/peckerwoods/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Blog for Peckers Everywhere</title>
+      <link>https://kanecyberstar.github.io/peckerwoods/posts/welcome-to-peckerwoods/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kanecyberstar.github.io/peckerwoods/posts/welcome-to-peckerwoods/</guid>
+      <description>&lt;p&gt;Egad! Peckerwood&amp;rsquo;s, thou say? &amp;lsquo;Tis the digital tavern where aficionados of Uncle Pecker doth convene and harken back to his grandiose undertakings!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

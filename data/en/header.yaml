@@ -1,0 +1,15 @@
+logo_image:
+logo_subtitle: Jivin' in the New Jargon
+mobile_view_at: 1000
+sticky_header: true
+menuitems:
+  - title: Peckerwood's Blog
+    link: /blog/
+cta:
+  active: false
+  title: Get started
+  link: /get-started/
+preheader: 
+  active: true
+  is_light: false
+  text: 

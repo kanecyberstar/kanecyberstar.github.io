@@ -1,0 +1,13 @@
+logo_image:
+dark_footer: true
+menuitems:
+  - title: Confidentiality Codex
+    link:  /privacy-policy/
+socials:
+  - title: Twitter
+    link: https://twitter.com/unclepecker
+    logo_image: /img/twitter.svg          
+  - title: Instagram
+    link: https://instagram.com/kanecyberstar
+    logo_image: /img/instagram.svg
+footer_text: I doth have faith thou didst relish thy sojourn. Pray, make haste in your return!
