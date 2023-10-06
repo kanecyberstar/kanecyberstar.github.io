@@ -94,6 +94,8 @@ header + section:not(.bgimage),
 body.transparent_header header + section.bgimage .container {padding-top: 11rem!important;}
 body:not(.transparent_header) header + section.bgimage .container {padding-top: 13.5rem!important;}
 
+
+
 body.transparent_header header:not(.sticky) {background: transparent;}
 body.transparent_header header:not(.sticky) a.logo,
 body.transparent_header header:not(.sticky) nav > ul > li > a {color: white;}
@@ -103,6 +105,7 @@ body.transparent_header header:not(.sticky) #togglemenu,
 body.transparent_header header:not(.sticky) a.logo > div img.inline {filter: invert(1)!important;}
 body.transparent_header header + section.bgimage {padding-top: 0!important;}
 body.transparent_header header:not(.sticky) .button {background: var(--accent); color: white;}
+
 
 /*------------------------*/
 /* footer

@@ -1,18 +1,20 @@
 ---
-title: Welcome to Peckerwood's! 
+title: Peckerwood's! 
 ---
-{{< brick_intro >}}
+{{< brick_title2 >}}
+
 
 # Welcome to Peckerwood's!
 
  The digital tavern where to doth convene and harken back to Uncle Pecker's most grandiose undertakings!
 
+![](/uploads/gallery/0002.png)
 
-# ![](/uploads/photos/uncle_pecker.png)
+{{< /brick_title2 >}}
 
-Yung Lester Pecker, Esq.
-
-{{< /brick_intro >}}
+{{< brick_image >}}
+# ![Yung Lester Pecker, Esq.](/uploads/photos/uncle_pecker.png)
+{{< /brick_image >}}
 {{< brick_image2 >}}
 
 ## Peckerwood's Second Life Store
@@ -31,9 +33,16 @@ Visiteth Uncle Pecker's Second Life emporium in the virtual realm or upon the di
 
 ## The Cyberstar Chronicles
 
+Peruse the chronicles of Uncle Pecker in his Web Journal, wherein thou shalt be bedazzled by tales that commence with his formative years in the quaint hamlet of Siltwood, and progress through his ceaseless quest for the ever-evasive Cyberstar. Delight in his moments of grandeur amidst the epoch known as the Great Banishment, and be astounded by the profundity of his intellect and the effulgence of his inventiveness whilst engrossed in myriad commercial enterprises.
+
+
+
 [![Siltwood](https://cdn.midjourney.com/2528f96d-bdab-404a-965f-2b0f9905ccae/0_3.png)](/posts)
 
-Peruse the chronicles of Uncle Pecker in his Web Journal, wherein thou shalt be bedazzled by tales that commence with his formative years in the quaint hamlet of Siltwood, and progress through his ceaseless quest for the ever-evasive Cyberstar. Delight in his moments of grandeur amidst the epoch known as the Great Banishment, and be astounded by the profundity of his intellect and the effulgence of his inventiveness whilst engrossed in myriad commercial enterprises.
+
+
+
+
 
 {{< /brick_image >}}
 
