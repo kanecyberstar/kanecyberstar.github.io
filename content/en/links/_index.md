@@ -1,14 +1,15 @@
 ---
-title: Welcome to Peckerwood's! 
+title: Peckerwood's! 
 ---
-{{< brick_intro >}}
+{{< brick_title2 >}}
 
 # Digital Gateways
 
  Egad and gadzooks! Behold yon interwebular connectimajigs to bedazzle, befuddle, and bestow knowledge upon thee! I say, Beware! For 'tis not a venture for the meek or the mildewed!
 
+![](https://cdn.midjourney.com/be150292-46af-4bfc-96a2-93808a26a8a8/0_3.png)
 
-{{< /brick_intro >}}
+{{< /brick_title2 >}}
 {{< brick_image2 >}}
 
 ## Jess and Her Gentlemen

@@ -8,13 +8,14 @@ title: Peckerwood's!
 
  The digital tavern where to doth convene and harken back to Uncle Pecker's most grandiose undertakings!
 
-![](/uploads/gallery/0002.png)
+![](https://cdn.midjourney.com/d3530ac5-59e7-4f08-a28a-ab291e796b92/0_0.png)
 
+
+
+
+![Yung Lester Pecker, Esq.](/uploads/photos/uncle_pecker2-3.png)
+Yung Lester Pecker, Esq.
 {{< /brick_title2 >}}
-
-{{< brick_image >}}
-# ![Yung Lester Pecker, Esq.](/uploads/photos/uncle_pecker.png)
-{{< /brick_image >}}
 {{< brick_image2 >}}
 
 ## Peckerwood's Second Life Store
