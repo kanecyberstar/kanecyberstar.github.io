@@ -1,9 +1,9 @@
 @font-face {
     font-display: swap;
-    font-family: 'Signika';
+    font-family: 'FEASFBRG';
     font-style: normal;
     font-weight: 700;
-    src: url('/fonts/signika-v20-latin-700.woff2') format('woff2');
+    src: url('/fonts/FEASFBRG.woff2') format('woff2');
 }
 @font-face {
     font-display: swap;
@@ -21,6 +21,6 @@
 }
 
 :root {
-    --fontTitles: 'Signika', sans-serif;
+    --fontTitles: 'FEASFBRG', sans-serif;
     --fontBody: 'Heebo', sans-serif;
 }

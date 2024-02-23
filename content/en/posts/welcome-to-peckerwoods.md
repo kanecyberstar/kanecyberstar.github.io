@@ -20,7 +20,7 @@ Then there was his time as a raker, clearin' them streets of horse apples, and a
 
 And when it came to makin' announcements, he was the town crier, with a voice that could wake the dead. But that weren't the end of his talents, not by a long shot. He was also a leech collector, gatherin' them bloodsuckers for healers and doctors, and a whippersnapper, churnin' out the creamiest whipped delights.
 
-Last but not least, Uncle Pecker knew his way around a chimney sweep's brush, clearin' away the soot and grime from them chimneys. With his flair, showmanship, and a hearty chuckle, he was a true legend in his own right. Aye, Uncle Lester, he lived a long and colorful life, bringin' joy and laughter wherever he went, a true character, he was!
+Last but not least, Uncle Pecker knew his way around a chimney sweep's brush, clearin' away the soot and grime from them chimneys. With his flair, showmanship, and a hearty chuckle, he was a true legend in his own right. Aye, Uncle Pecker, he lived a long and colorful life, bringin' joy and laughter wherever he went, a true character, he was!
 
 
 

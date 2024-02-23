@@ -2,21 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kanecyberstar.github.io/peckerwoods/posts/welcome-to-peckerwoods/</loc>
+    <loc>https://kanecyberstar.github.io/posts/black-friday-at-peckerwoods/</loc>
+    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kanecyberstar.github.io/</loc>
+    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kanecyberstar.github.io/blog/</loc>
+    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kanecyberstar.github.io/posts/welcome-to-peckerwoods/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kanecyberstar.github.io/peckerwoods/blog/</loc>
-    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
+    <loc>https://kanecyberstar.github.io/categories/</loc>
   </url><url>
-    <loc>https://kanecyberstar.github.io/peckerwoods/</loc>
-    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
+    <loc>https://kanecyberstar.github.io/privacy-policy/</loc>
   </url><url>
-    <loc>https://kanecyberstar.github.io/peckerwoods/categories/</loc>
+    <loc>https://kanecyberstar.github.io/404/</loc>
   </url><url>
-    <loc>https://kanecyberstar.github.io/peckerwoods/privacy-policy/</loc>
+    <loc>https://kanecyberstar.github.io/gallery/</loc>
   </url><url>
-    <loc>https://kanecyberstar.github.io/peckerwoods/404/</loc>
+    <loc>https://kanecyberstar.github.io/links/</loc>
   </url><url>
-    <loc>https://kanecyberstar.github.io/peckerwoods/tags/</loc>
+    <loc>https://kanecyberstar.github.io/tags/</loc>
   </url>
 </urlset>
